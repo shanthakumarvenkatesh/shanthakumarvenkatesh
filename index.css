@@ -1,0 +1,55 @@
+.top{ 
+    width: 100%;
+    height: 270px;
+    margin: auto;
+    background-color: rgb(65, 74, 78);
+}
+.add{
+    width: 100%;
+    text-align: center;
+    color:  rgb(65, 74, 78);
+    font-size: 1.9vmax
+}
+.wline{
+  background-color: #ffffff;
+  position: absolute;
+  top: 200px;
+  width:100%;
+  height: 35px;
+}
+
+.yline{
+    background-color: rgba(218, 167, 27, 1);
+    position: absolute;
+    width:35%;
+    top:170px;
+    height: 75px;
+    left: 32%;
+    font-size: 5vmax;
+}
+
+img{
+    border-radius: 50%;
+    border:  rgba(218, 167, 27, 1) 5px solid;
+    width: 200px;
+    height: 200px;
+    border-style:dotted;
+}
+
+.left{
+    margin-left: 10%;
+    margin-top: 10%;
+
+}
+.right{
+    margin-left: 10%;
+}
+hr{
+    width: 100%;
+}
+.head{
+    font-size: 1.5vmax;
+}
+.skill{
+    font-size: 1.2vmax;
+}
