@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @shanthakumarvenkatesh
+- 👋 Hi, I’m shanthakumarvenkatesh
 - 👀 I’m interested in WEB DEVELOPMENT
 - 🌱 I’m currently learning nodejs
 - 📫 How to reach me shanthakumarvenkatesh27@gmail.com
